@@ -93,7 +93,7 @@ export default function ContactFormSection() {
               {[
                 'Response within 48 hours',
                 'All inquiries are confidential',
-                'Available Mon–Sat, 9AM–6PM IST',
+                'Available Mon–Fri, 9AM–6PM IST',
               ].map((item) => (
                 <div key={item} className="flex items-center gap-4 group">
                   <div className="hover-line" />
@@ -199,7 +199,7 @@ export default function ContactFormSection() {
                       name="phone"
                       value={formData.phone}
                       onChange={handleChange}
-                      placeholder="+91 98765 43210"
+                      placeholder="+91 8939301100"
                       className="w-full bg-transparent border-b border-primary/20 py-3 text-sm text-fg font-body focus:outline-none focus:border-primary transition-colors placeholder:text-fg-subtle/40"
                     />
                     <div className="absolute bottom-0 left-0 w-0 h-px bg-accent group-focus-within:w-full transition-all duration-500" />

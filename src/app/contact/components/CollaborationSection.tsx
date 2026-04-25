@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 
 const collaborations = [
   {
@@ -223,10 +223,10 @@ export default function CollaborationSection() {
             Just reach out — we will find the right way to work together.
           </p>
           <a
-            href="mailto:info@shelffoundation.org"
+            href="mailto:umashankarfoundation2604@gmail.com"
             className="inline-flex items-center gap-2 text-[11px] uppercase tracking-[0.3em] text-accent font-body font-semibold border-b border-accent/40 pb-1 hover:border-accent transition-colors"
           >
-            info@shelffoundation.org
+            umashankarfoundation2604@gmail.com
           </a>
         </div>
       </div>

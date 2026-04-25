@@ -46,7 +46,7 @@ export default function AboutHeroSection() {
           className="font-display font-bold text-white/[0.03] select-none"
           style={{ fontSize: 'clamp(12rem, 30vw, 28rem)', lineHeight: 1 }}
         >
-          SHELF
+          SHE
         </span>
       </div>
 

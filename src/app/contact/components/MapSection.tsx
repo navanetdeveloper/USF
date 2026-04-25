@@ -49,9 +49,8 @@ export default function MapSection() {
               <p className="text-sm text-fg-muted font-body leading-relaxed">
                 USF HQ
                 <br />
-                123, Foundation Avenue
-                <br />
-                Mumbai, Maharashtra 400001
+               Chennai
+
                 <br />
                 India
               </p>
@@ -97,7 +96,7 @@ export default function MapSection() {
                 </span>
               </div>
               <p className="text-xs text-fg-subtle font-body mt-1">
-                Mumbai, Maharashtra
+               Chennai,Tamil lNadu
               </p>
             </div>
           </div>
@@ -126,7 +125,7 @@ export default function MapSection() {
                 </svg>
               ),
               label: 'Office Hours',
-              value: 'Monday – Saturday\n9:00 AM – 6:00 PM IST',
+              value: 'Monday – Friday\n9:00 AM – 6:00 PM IST',
             },
             {
               icon: (
@@ -144,7 +143,7 @@ export default function MapSection() {
                 </svg>
               ),
               label: 'Phone',
-              value: '+91 98765 43210\n+91 22 1234 5678',
+              value: '+91 8939301100\n',
             },
             {
               icon: (
@@ -163,7 +162,7 @@ export default function MapSection() {
                 </svg>
               ),
               label: 'Email',
-              value: 'info@shelffoundation.org\ncsr@shelffoundation.org',
+              value: '\numashankarfoundation2604@gmail.com',
             },
           ]?.map((item) => (
             <div

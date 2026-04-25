@@ -90,9 +90,9 @@ const pillars = [
     span: 'col-span-1',
   },
   {
-    letter: 'F',
-    title: 'Foundation',
-    subtitle: 'Clean. Green. United.',
+    letter: 'C',
+    title: 'COMMUNITY',
+    subtitle: 'COMMUNITY WELFARE AND SOCIAL DEVELOPMENT',
     description:
       'Cleanliness drives, sanitation improvements, tree plantation campaigns, and holistic community development initiatives.',
     color: '#1B4332',

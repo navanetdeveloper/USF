@@ -24,9 +24,9 @@ const pillars = [
     desc: 'Sustainable income and dignified work transform families across generations.',
   },
   {
-    letter: 'F',
-    word: 'Foundation',
-    desc: 'The physical environment — clean, green, safe — is the canvas for all other progress.',
+    letter: 'C',
+    word: 'COMMUNITY WELFARE ',
+    desc: 'To support women empowerment, self-help groups, and entrepreneurship initiatives',
   },
 ];
 
@@ -79,7 +79,7 @@ export default function WhyShelfSection() {
                 Why
                 <br />
                 <span className="italic" style={{ color: '#DA921A' }}>
-                  S.H.E.L.F.?
+                  S.H.E?
                 </span>
               </h2>
             </div>
