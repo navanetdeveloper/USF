@@ -1,6 +1,6 @@
 'use client';
 
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 
 /*
   BENTO GRID AUDIT — 3-col grid, 5 cards:
@@ -111,7 +111,7 @@ const pillars = [
   },
 ];
 
-export default function ShelfPillarsSection() {
+export default function SHEPillarsSection() {
   const sectionRef = useRef<HTMLElement>(null);
 
   useEffect(() => {
@@ -157,7 +157,7 @@ export default function ShelfPillarsSection() {
             style={{ transitionDelay: '0.15s' }}
           >
             <p className="text-sm text-fg-muted font-body leading-relaxed">
-              Each letter of SHELF represents a domain of impact — five
+              Each letter of SHE represents a domain of impact — five
               interconnected pillars that together build thriving,
               self-sufficient communities.
             </p>

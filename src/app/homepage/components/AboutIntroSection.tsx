@@ -48,7 +48,7 @@ export default function AboutIntroSection() {
           <div className="relative aos-item-left">
             <div className="aspect-[4/5] overflow-hidden bg-bg-warm border border-primary/10">
               <AppImage
-                src="https://img.rocket.new/generatedImages/rocket_gen_img_164d6e622-1774901432443.png"
+                src="https://i.postimg.cc/PqJsJkYH/sss.jpg"
                 alt="Volunteers and community members gathered outdoors, diverse group, warm sunshine, India"
                 width={600}
                 height={750}
@@ -93,7 +93,7 @@ export default function AboutIntroSection() {
             </div>
             <div className="aos-item" style={{ transitionDelay: '0.3s' }}>
               <p className="text-sm text-fg-subtle font-body leading-relaxed">
-                SHELF stands for Sports, Healthcare, Education, Livelihood, and
+                SHE stands for Sports, Healthcare, Education, Livelihood, and
                 Foundation — the five pillars through which we create lasting
                 change. Every initiative we undertake is community-first,
                 outcome-driven, and built to sustain beyond our presence.

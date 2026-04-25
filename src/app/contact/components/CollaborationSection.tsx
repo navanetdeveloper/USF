@@ -50,7 +50,7 @@ const collaborations = [
       </svg>
     ),
     headline: 'CSR that creates real change',
-    desc: "Align your mandatory CSR spending with SHELF's five pillars. We provide full documentation, impact reports, and public acknowledgment of your contribution.",
+    desc: "Align your mandatory CSR spending with SHE's five pillars. We provide full documentation, impact reports, and public acknowledgment of your contribution.",
     tags: ['Section 80G', 'Impact Reports', 'Site Visits', 'Brand Visibility'],
     accent: '#C8630A',
   },
@@ -159,7 +159,7 @@ export default function CollaborationSection() {
             style={{ transitionDelay: '0.15s' }}
           >
             <p className="text-sm text-fg-muted font-body leading-relaxed">
-              There are many ways to be part of the SHELF mission. Every form of
+              There are many ways to be part of the SHE mission. Every form of
               involvement — however big or small — creates measurable, lasting
               change.
             </p>

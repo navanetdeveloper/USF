@@ -133,11 +133,11 @@ export default function GetInvolvedSection() {
           <div className="aos-item">
             <span className="section-label mb-4 block">Be the Change</span>
             <h2 className="font-display text-5xl md:text-7xl text-primary leading-[0.9] tracking-tight mb-6">
-              Join Us <span className="italic text-accent">Today.</span>
+              Start <span className="italic text-accent">Here.</span>
             </h2>
             <p className="max-w-xl mx-auto text-base text-fg-muted font-body font-light leading-relaxed">
               Whether you have time, expertise, funds, or a network — there is a
-              meaningful role for you in the SHELF mission. Every contribution,
+              meaningful role for you in the SHE mission. Every contribution,
               however small, multiplies.
             </p>
           </div>

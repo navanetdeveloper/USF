@@ -85,8 +85,8 @@ export default function WhyShelfSection() {
             </div>
             <div className="aos-item" style={{ transitionDelay: '0.1s' }}>
               <p className="text-base text-primary-200 font-body font-light leading-relaxed mb-6">
-                A shelf holds the most important things in a home — books,
-                medicine, trophies, memories. We chose SHELF because each letter
+                A SHE holds the most important things in a home — books,
+                medicine, trophies, memories. We chose SHE because each letter
                 represents a domain that holds up the structure of a thriving
                 community.
               </p>

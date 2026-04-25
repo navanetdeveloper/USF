@@ -79,7 +79,7 @@ export default function WhoWeAreSection() {
               <p className="text-base text-fg-muted font-body leading-relaxed">
                 As we grew and found success, we made a conscious choice: to
                 give back. Not as outsiders with solutions, but as insiders with
-                understanding. SHELF was born from this conviction — that the
+                understanding. SHE was born from this conviction — that the
                 most powerful form of giving is returning to your roots with
                 purpose, humility, and a long-term plan.
               </p>
