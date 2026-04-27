@@ -88,6 +88,13 @@ export default function HeroSection() {
           </span>
         </div>
 
+ <div className="hero-reveal">
+          <span className="section-labell mb-8 block">
+          "Guided by Gratitude Progress with Purpose."
+          </span>
+        </div>
+
+
         <div className="hero-reveal">
           <h1 className="font-display leading-[0.9] tracking-tight text-primary mb-6">
             <span

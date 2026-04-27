@@ -22,7 +22,7 @@ const contactDetails = [
       </svg>
     ),
     value:
-      'USF HQ,\n Chennai \n Tamil Nadu \n India',
+      'USF,\n Chennai \n Tamil Nadu \n India',
   },
   {
     label: 'Phone',

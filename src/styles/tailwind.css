@@ -364,9 +364,17 @@ body {
 .section-label {
   font-size: 10px;
   letter-spacing: 0.5em;
-  text-transform: uppercase;
+  
   color: var(--color-accent);
   font-weight: 500;
+}
+
+.section-labell {
+  font-size: 15px;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--color-accent);
+  font-weight: 900;
 }
 
 /* ── Float animation ── */
